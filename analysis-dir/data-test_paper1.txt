@@ -1,0 +1,74 @@
+[This Paper References]: 
+
+night
+street
+travel
+
+
+[Frequencies]: 
+
+Keyword: night (occurrences: 2)
+{'evening': 1, 'night': 1}
+
+Keyword: street (occurrences: 2)
+{'street': 2}
+
+Keyword: travel (occurrences: 6)
+{'travel': 0, 'retreat': 1, 'go': 4, 'come': 1}
+
+
+
+[N-Gram Queries]: 
+
+N-Gram: you and i
+Found at Token(s): [5]
+
+
+
+[Bi-Gram Queries]: 
+
+Bi-Gram: let u
+Found at Token(s): [0, 26, 80]
+
+
+
+[Concordances]: 
+
+--- Keyword: night ------------------------------
+
+[evening, 11]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To
+
+[night, 40]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit . In the room
+
+--- Keyword: street ------------------------------
+
+[street, 33]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and
+
+[street, 51]:
+go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit . In the room the women come and go Talking of Michelangelo .
+
+--- Keyword: travel ------------------------------
+
+[come, 93]:
+hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit . In the room the women come and go Talking of Michelangelo .
+
+[go, 2]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that
+
+[go, 28]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ?
+
+[go, 82]:
+streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit . In the room the women come and go Talking of Michelangelo .
+
+[go, 95]:
+sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit . In the room the women come and go Talking of Michelangelo .
+
+[retreat, 37]:
+Let us go then , you and I , When the evening is spread out against the sky Like a patient etherized upon a table ; Let us go , through certain half-deserted streets , The muttering retreats Of restless nights in one-night cheap hotels And sawdust restaurants with oyster-shells : Streets that follow like a tedious argument Of insidious intent To lead you to an overwhelming question ... Oh , do not ask , 'What is it ? ' Let us go and make our visit .
+
+
+
